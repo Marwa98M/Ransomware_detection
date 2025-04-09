@@ -1,0 +1,5 @@
+streamlit
+streamlit
+pandas  # Example, include other dependencies here
+numpy
+tensorflow
